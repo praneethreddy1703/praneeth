@@ -1,0 +1,29 @@
+body{
+	background-color: gray;
+}
+h1{
+	font-color:blue;
+}
+div{
+	width: 261px;
+	background: white;
+	/*margin-top: 120px;*/
+	border-radius: 2px;
+	border:solid 2px;
+	border-color: red;
+}
+div input{
+	margin:10px 0px 10px 10px;
+	height:30px;
+	width :200px;
+	border-radius:8px;
+}
+div textarea{
+	width: 200px;
+	border-radius:8px;
+
+}
+
+
+
+
